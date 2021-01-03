@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="FX FHD²">
+    <display-name lang="pt">FX FHD²</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="MEGA PIX 4K">
+    <display-name lang="pt">MEGA PIX 4K</display-name>
+	http://dns.rsiptv.online:2082/8597408421/4317964817/6637
+	
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+</tv>
